@@ -14,7 +14,7 @@
     "inputs": [
       {
         "indexed": true,
-        "internalType": "address",
+        "internalType": "addresss",
         "name": "owner",
         "type": "address"
       },
